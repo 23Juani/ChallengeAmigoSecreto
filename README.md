@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/92e6f55d-c21e-4ff1-ae90-e5e9a22cb39e)
 
 ## 📌 Descripción
-Challenge de amigo secreto
+Challenge del Amigo Secreto
 
 ## 🚀 Funcionalidades
 - Agregar nombres de amigos a una lista.
